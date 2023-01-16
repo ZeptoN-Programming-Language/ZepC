@@ -1,1 +1,1 @@
-This directory contains samples--example ZeptoN programs to illustrate the ZeptoN programming language. As more are developed the will be added. All the samples are open-source and use the GNU GPL v3 license
+This directory contains samples--example ZeptoN programs to illustrate the ZeptoN programming language. As more are developed the will be added. All the samples are open-source and use the GNU GPL v3 license.
